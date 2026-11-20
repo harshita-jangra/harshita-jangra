@@ -1,12 +1,14 @@
-# ✨ Harshita Jangra
+ <div align="center">
 
-### CSE (AI & ML) Student | Aspiring Full Stack Developer
+# ✨ HARSHITA JANGRA
 
-*Building ideas. Solving problems. Creating impact.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=650&lines=CSE+(AI+%26+ML)+Student;Aspiring+Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver+%7C+Lifelong+Learner;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshita-jangra&label=Profile%20Views&color=D4AF37&style=flat-square)
-![Followers](https://img.shields.io/github/followers/harshita-jangra?label=Followers&style=flat-square&color=D4AF37)
-![Stars](https://img.shields.io/github/stars/harshita-jangra?affiliations=OWNER&label=Stars%20Received&style=flat-square&color=D4AF37)
+![Profile Views](https://komarev.com/ghpvc/?username=harshita-jangra&label=PROFILE+VIEWS&color=D4AF37&style=flat-square)
+![Followers](https://img.shields.io/github/followers/harshita-jangra?label=FOLLOWERS&style=flat-square&color=D4AF37)
+![Stars](https://img.shields.io/github/stars/harshita-jangra?affiliations=OWNER&label=STARS&style=flat-square&color=D4AF37)
+
+</div>
 
 ---
 
@@ -17,7 +19,7 @@
 - 👯 Looking to collaborate on **AI/ML and Full Stack projects**.
 - 🤝 Interested in building scalable AI-powered applications.
 - 💬 Ask me about **C++, DSA, Web Development and React**.
-- 📫 Email: **[hars4969@gmail.com](mailto:hars4969@gmail.com)**
+- 📫 Email: [hars4969@gmail.com](mailto:hars4969@gmail.com)
 - ⚡ Fun fact: I love turning random ideas into real-world projects!
 
 ---
@@ -73,6 +75,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Golden Contribution Snake](https://raw.githubusercontent.com/harshita-jangra/harshita-jangra/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## ⭐ GitHub Highlights
 
 ![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/harshita-jangra&query=$.public_repos&label=Public%20Repositories&style=for-the-badge&color=D4AF37&labelColor=0D1117)
@@ -85,9 +97,7 @@
 
 ## 🚀 Featured Projects
 
-Explore my repositories and projects:
-
-[![Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/harshita-jangra?tab=repositories)
+[![Explore My Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/harshita-jangra?tab=repositories)
 
 *More exciting projects coming soon!*
 
@@ -115,8 +125,12 @@ Explore my repositories and projects:
 
 ---
 
+<div align="center">
+
 ### 💛 Code. Create. Learn. Repeat.
 
 *Thanks for visiting my GitHub profile!*
 
-⭐ Feel free to explore my repositories, leave a star and connect with me!
+⭐ Explore my repositories and connect with me!
+
+</div>
