@@ -1,37 +1,180 @@
-<h1 align="center">Hi 👋, I'm Harshita</h1>
-<h3 align="center">CSE (AI & ML) Student | Aspiring Full Stack Developer</h3>
+&#x20;\<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-jangra&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-jangra" /> </p>
+# ✨ HARSHITA JANGRA
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita-jangra" alt="harshita-jangra" /></a> </p>
+### `CSE (AI & ML) STUDENT` • `ASPIRING FULL STACK DEVELOPER`
 
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB, DSA, Python, AI/ML**
+**Building ideas. Solving problems. Creating impact.**
 
-- 👯 I’m looking to collaborate on **AI/ML & Full Stack Projects**
 
-- 🤝 I’m looking for help with **Building scalable AI-powered applications**
+\
 
-- 💬 Ask me about **C++, DSA, Web Development, React**
 
-- 📫 How to reach me **hars4969@gmail.com**
+\</div>
 
-- ⚡ Fun fact **I love turning random ideas into real-world projects!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshita-a21b30380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-a21b30380" height="30" width="40" /></a>
-<a href="https://instagram.com/harshhi_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshhi_24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshiita_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshiita_06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshita_jangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshita_jangra" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harshita_jangda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshita_jangda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshita_247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshita_247" height="30" width="40" /></a>
-</p>
+## 🖤 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+```yaml
+name: Harshita Jangra
+education: Computer Science Engineering (AI & ML)
+role: Aspiring Full Stack Developer
+interests:
+  - Artificial Intelligence & Machine Learning
+  - Full Stack Development
+  - Data Structures & Algorithms
+  - Problem Solving
+currently_learning:
+  - React.js
+  - Node.js
+  - MongoDB
+  - Python
+  - DSA
+looking_to:
+  - Collaborate on AI/ML projects
+  - Build scalable applications
+  - Contribute to meaningful projects
+fun_fact: "I love turning random ideas into real-world projects!"
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita-jangra&show_icons=true&locale=en&layout=compact" alt="harshita-jangra" /></p>
+- 🌱 Currently exploring **React.js, Node.js, MongoDB, DSA, Python & AI/ML**
+- 👯 Open to collaborating on **AI/ML and Full Stack projects**
+- 🤝 Interested in building **scalable AI-powered applications**
+- 💬 Ask me about **C++, DSA, Web Development & React**
+- 📫 Reach me at [**hars4969@gmail.com**](mailto\:hars4969@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshita-jangra&show_icons=true&locale=en" alt="harshita-jangra" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-jangra&" alt="harshita-jangra" /></p>
+## 💻 Tech Stack & Tools
+
+\<div align="center">
+
+### Languages
+
+
+
+
+
+\
+
+
+### Frontend Development
+
+
+\
+
+
+### Backend & Database
+
+
+\
+
+
+### Tools & Platforms
+
+
+\
+
+
+\</div>
+
+---
+
+## 📊 GitHub Analytics
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=harshita-jangra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E6EDF3&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=harshita-jangra\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=FFD700\&icon_color=FFD700\&text_color=E6EDF3\&include_all_commits=true)" alt="Harshita's GitHub Stats" />
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-jangra&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E6EDF3&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-jangra\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=FFD700\&text_color=E6EDF3\&langs_count=8)" alt="Top Languages" />
+
+\</div>
+
+\<div align="center">
+
+\<img width="90%" src="[https://github-readme-streak-stats.demolab.com?user=harshita-jangra&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=F5D76E&dates=C9B458&currStreakNum=FFFFFF&sideNums=FFFFFF](https://github-readme-streak-stats.demolab.com?user=harshita-jangra\&theme=dark\&hide_border=true\&background=0D1117\&ring=FFD700\&fire=FFD700\&currStreakLabel=FFD700\&sideLabels=F5D76E\&dates=C9B458\&currStreakNum=FFFFFF\&sideNums=FFFFFF)" alt="GitHub Contribution Streak" />
+
+\</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+\<div align="center">
+
+
+
+\</div>
+
+---
+
+## ⭐ GitHub Highlights
+
+\<div align="center">
+
+
+
+
+
+
+
+
+
+\</div>
+
+---
+
+## 🚀 Featured Projects
+
+\<div align="center">
+
+\<!-- ADD YOUR BEST 3-4 PROJECTS HERE.  Replace PROJECT_NAME and REPOSITORY_NAME with your actual repository names. Remove unused cards. Do not leave placeholder links in your published README. -->
+
+\<a href="[https://github.com/harshita-jangra/PROJECT_NAME](https://github.com/harshita-jangra/PROJECT_NAME)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=harshita-jangra&repo=PROJECT_NAME&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E6EDF3&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=harshita-jangra\&repo=PROJECT_NAME\&bg_color=0D1117\&title_color=FFD700\&icon_color=FFD700\&text_color=E6EDF3\&hide_border=true)" /> \</a>
+
+\<a href="[https://github.com/harshita-jangra/REPOSITORY_NAME](https://github.com/harshita-jangra/REPOSITORY_NAME)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=harshita-jangra&repo=REPOSITORY_NAME&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E6EDF3&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=harshita-jangra\&repo=REPOSITORY_NAME\&bg_color=0D1117\&title_color=FFD700\&icon_color=FFD700\&text_color=E6EDF3\&hide_border=true)" /> \</a>
+
+\</div>
+
+---
+
+## 🏆 Coding Profiles
+
+\<div align="center">
+
+
+
+
+
+
+
+
+
+\</div>
+
+---
+
+## 🌐 Let's Connect
+
+\<div align="center">
+
+
+
+
+
+
+
+\</div>
+
+---
+
+\<div align="center">
+
+### 💛 "Code. Create. Learn. Repeat."
+
+**Thanks for visiting my profile!**
+
+⭐ If you find something interesting, feel free to explore my repositories and connect!
+
+\</div>
