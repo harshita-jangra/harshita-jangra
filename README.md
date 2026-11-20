@@ -1,8 +1,8 @@
+ <div align="center">
+
 # ✨ HARSHITA JANGRA
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Aspiring+Full+Stack+Developer;Creative+Problem+Solver;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=CSE+%28AI+%26+ML%29+Student;Aspiring+Full+Stack+Developer;AI%2FML+Enthusiast;DSA+%26+Problem+Solving+Enthusiast;Turning+Ideas+Into+Reality" alt="Animated typing identity" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshita-jangra&label=PROFILE+VIEWS&color=D4AF37&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/harshita-jangra?label=FOLLOWERS&style=flat-square&color=D4AF37)
@@ -12,26 +12,20 @@
 
 ---
 
-<div align="center">
-
-<img src="assets/golden-terminal.gif" width="90%" alt="Harshita's Golden Coding Identity"/>
-
-</div>
-
 ## 👩‍💻 About Me
 
 I'm Harshita, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, passionate about building meaningful digital experiences.
 
-- 🌱 Currently exploring **React.js, Node.js, MongoDB, Python & AI/ML**
-- 💡 Interested in **Full Stack Development and Intelligent Applications**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 👯 Open to collaborating on exciting development projects
-- 💬 Let's talk about **C++, DSA, React and Web Development**
-- 📧 **[Let's Connect](mailto:hars4969@gmail.com)**
+- 🌱 Currently learning **React.js, Node.js, MongoDB, DSA, Python and AI/ML**
+- 👯 Looking to collaborate on **AI/ML and Full Stack projects**
+- 🤝 Interested in building scalable AI-powered applications
+- 💬 Ask me about **C++, DSA, Web Development and React**
+- 📫 Reach me at **[hars4969@gmail.com](mailto:hars4969@gmail.com)**
+- ⚡ Fun fact: I love turning random ideas into real-world projects!
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Languages and Tools
 
 <div align="center">
 
@@ -56,7 +50,7 @@ I'm Harshita, a Computer Science Engineering student specializing in **Artificia
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFD700)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFD700)
 
-**DEVELOPER TOOLS**
+**TOOLS**
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFD700)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700)
@@ -68,13 +62,13 @@ I'm Harshita, a Computer Science Engineering student specializing in **Artificia
 
 ## 🚀 Featured Projects
 
-Explore my work, experiments and development journey.
-
 <div align="center">
 
-[![Explore Projects](https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/harshita-jangra?tab=repositories)
+[![Explore My Projects](https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/harshita-jangra?tab=repositories)
 
 </div>
+
+Explore my repositories to discover my projects, experiments and development journey.
 
 ---
 
@@ -82,7 +76,7 @@ Explore my work, experiments and development journey.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshita-jangra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=D4AF37&text_color=FFFFFF&include_all_commits=true" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshita-jangra&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=D4AF37&text_color=FFFFFF" alt="GitHub Statistics"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-jangra&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&langs_count=8" alt="Most Used Languages"/>
 
@@ -90,13 +84,27 @@ Explore my work, experiments and development journey.
 
 <div align="center">
 
-<img width="85%" src="https://github-readme-streak-stats.demolab.com?user=harshita-jangra&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=D4AF37&dates=C9B458&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution Streak"/>
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/harshita-jangra&query=$.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=D4AF37&labelColor=0D1117)
+
+![Stars Earned](https://img.shields.io/github/stars/harshita-jangra?affiliations=OWNER&label=STARS%20EARNED&style=for-the-badge&color=D4AF37&labelColor=0D1117)
+
+![Followers](https://img.shields.io/github/followers/harshita-jangra?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=0D1117)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=harshita-jangra&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=D4AF37&dates=C9B458&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Harshita's GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
@@ -111,21 +119,25 @@ Explore my work, experiments and development journey.
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFD700)](https://leetcode.com/harshita_247)
+
 [![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=FFD700)](https://www.codechef.com/users/harshiita_06)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=FFD700)](https://codeforces.com/profile/harshita_jangda)
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=FFD700)](https://www.hackerrank.com/harshita_jangra)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/harshita-a21b30380)
+
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://instagram.com/harshhi_24)
+
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:hars4969@gmail.com)
 
 </div>
