@@ -75,15 +75,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-![Golden Contribution Snake](https://raw.githubusercontent.com/harshita-jangra/harshita-jangra/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## ⭐ GitHub Highlights
 
