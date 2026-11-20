@@ -63,11 +63,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=harshita-jangra&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=D4AF37&dates=C9B458&currStreakNum=FFFFFF&sideNums=FFFFFF)
-
----
 
 ## 📈 Contribution Activity Graph
 
